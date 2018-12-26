@@ -1,3 +1,6 @@
+---
+title: "Startcamp 1주차"
+---
 # 1주차 발표 Design Thinking
 
 | 단계          | 정의                                                         | 활용 Tool                                                    |
