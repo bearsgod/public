@@ -20,9 +20,9 @@ title                    : "5조"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "구미 1반 5조입니다."
-url                      : # the base hostname & protocol for your site e.g. "https://bearsgod.github.io"
+url                      : "https://bearsgod.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "public"
+repository               : "public"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
